@@ -1,0 +1,15 @@
+{
+  "_id": "6ae0579ac7817c703213bc4c",
+  "event_id": "EV00000001",
+  "ts": "2025-11-01T00:00:08+07:00",
+  "event_type": "app_open",
+  "customer_id": null,
+  "session_id": "Sdd55bce17a",
+  "device": {
+    "os": "ios",
+    "app_version": "5.3.1"
+  },
+  "payload": {
+    "launch_type": "warm"
+  }
+}

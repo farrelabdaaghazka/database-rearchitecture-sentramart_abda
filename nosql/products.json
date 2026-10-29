@@ -1,0 +1,22 @@
+{
+  "_id": 1,
+  "product_id": 1,
+  "product_name": "Kairo Tablet Silver Seri-155",
+  "price": { "$numberDecimal": "3294400.00" },
+  "stock": 285,
+  "is_flash_sale": false,
+  "seller_id": 870,
+  "category": {
+    "category_id": 1,
+    "category_name": "Handphone & Tablet"
+  },
+  "attributes": {
+    "brand": "Kairo",
+    "color": "Silver",
+    "ram_gb": "8",
+    "network": "5G",
+    "storage_gb": "64",
+    "warranty_months": "12"
+  },
+  "created_at": { "$date": "2023-12-30T17:00:00.000Z" }
+}
